@@ -30,7 +30,7 @@ The goal of this project was to practice building **modern UI layouts using CSS 
 
 ## Project Preview
 
-![Ecommerce Preview](ecommerce-output.png)
+![Ecommerce Preview](project-preview.png)
 
 ---
 
